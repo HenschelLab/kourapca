@@ -6,11 +6,11 @@ The following plots are meant to be interactive. Zooming, panning, and muting/un
 Particularly, activate the desired tools to the right. Individual components are scalable, when mouse wheel zoom is activated and the wheel is used over the respective axis.
 ### PCA, components 1 and 2
 
-PCA for [PC 1 and 2](https://henschellab.github.io/kourapca/Koura_PC12.html)
+PCA for [PC 1 and 2](https://henschellab.github.io/kourapca/Koura_GreekSet4_PC12a.html)
 
 ### PCA, components 3 and 4
 
-PCA for [PC 3 and 4](https://henschellab.github.io/kourapca/Koura_PC34.html)
+PCA for [PC 3 and 4](https://henschellab.github.io/kourapca/Koura_GreekSet4_PC12a.html)
 
 ### Regional PCA 
 PCA for [North Lebanon](https://henschellab.github.io/kourapca/kouraOnly.html) only. Here
