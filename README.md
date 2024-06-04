@@ -20,3 +20,6 @@ PCA for [PC 3 and 4](https://henschellab.github.io/kourapca/Koura_GreekSet5_PC34
 ### Regional PCA 
 PCA for [North Lebanon](https://henschellab.github.io/kourapca/kouraOnly.html) only. Here
 PCs are formed solely based on data from North Lebanon samples, no other world populations.
+
+### PCA with modern Turkish samples, components 1 and 2
+PCA for [PC 1 and 2](https://henschellab.github.io/kourapca/Koura_Turks_PC12.html)
